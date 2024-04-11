@@ -1,0 +1,7 @@
+pk=(23,45,3,5,3,3,3,54,32,1,323,)
+print(pk.count(3))
+print(type(pk))
+print(min(pk))
+print(max(pk))
+print(sum(pk))
+print(pk[2:9])
